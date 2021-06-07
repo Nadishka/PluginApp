@@ -1,0 +1,9 @@
+C:\Users\nadishka_j\Desktop\PluginApp\Radius.Plugin\bin\Debug\Radius.Plugin.dll
+C:\Users\nadishka_j\Desktop\PluginApp\Radius.Plugin\bin\Debug\Radius.Plugin.pdb
+C:\Users\nadishka_j\Desktop\PluginApp\Radius.Plugin\bin\Debug\PluginInterface.dll
+C:\Users\nadishka_j\Desktop\PluginApp\Radius.Plugin\bin\Debug\PluginInterface.pdb
+C:\Users\nadishka_j\Desktop\PluginApp\Radius.Plugin\obj\Debug\Radius.Plugin.csprojAssemblyReference.cache
+C:\Users\nadishka_j\Desktop\PluginApp\Radius.Plugin\obj\Debug\Radius.Plugin.csproj.CoreCompileInputs.cache
+C:\Users\nadishka_j\Desktop\PluginApp\Radius.Plugin\obj\Debug\Radius.Plugin.csproj.CopyComplete
+C:\Users\nadishka_j\Desktop\PluginApp\Radius.Plugin\obj\Debug\Radius.Plugin.dll
+C:\Users\nadishka_j\Desktop\PluginApp\Radius.Plugin\obj\Debug\Radius.Plugin.pdb

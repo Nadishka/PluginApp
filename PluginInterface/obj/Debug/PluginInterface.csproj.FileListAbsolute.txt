@@ -1,0 +1,6 @@
+C:\Users\nadishka_j\Desktop\PluginApp\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\nadishka_j\Desktop\PluginApp\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\nadishka_j\Desktop\PluginApp\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\nadishka_j\Desktop\PluginApp\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\nadishka_j\Desktop\PluginApp\PluginInterface\obj\Debug\PluginInterface.pdb
+C:\Users\nadishka_j\Desktop\PluginApp\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache

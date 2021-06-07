@@ -1,0 +1,8 @@
+C:\Users\nadishka_j\Desktop\PluginApp\Size.Plugin\bin\Debug\Size.Plugin.dll
+C:\Users\nadishka_j\Desktop\PluginApp\Size.Plugin\bin\Debug\Size.Plugin.pdb
+C:\Users\nadishka_j\Desktop\PluginApp\Size.Plugin\bin\Debug\PluginInterface.dll
+C:\Users\nadishka_j\Desktop\PluginApp\Size.Plugin\bin\Debug\PluginInterface.pdb
+C:\Users\nadishka_j\Desktop\PluginApp\Size.Plugin\obj\Debug\Size.Plugin.csproj.CoreCompileInputs.cache
+C:\Users\nadishka_j\Desktop\PluginApp\Size.Plugin\obj\Debug\Size.Plugin.csproj.CopyComplete
+C:\Users\nadishka_j\Desktop\PluginApp\Size.Plugin\obj\Debug\Size.Plugin.dll
+C:\Users\nadishka_j\Desktop\PluginApp\Size.Plugin\obj\Debug\Size.Plugin.pdb

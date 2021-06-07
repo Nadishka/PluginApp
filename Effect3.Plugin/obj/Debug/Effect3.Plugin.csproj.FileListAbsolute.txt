@@ -1,0 +1,9 @@
+C:\Users\nadishka_j\Desktop\PluginApp\Effect3.Plugin\bin\Debug\Effect3.Plugin.dll
+C:\Users\nadishka_j\Desktop\PluginApp\Effect3.Plugin\bin\Debug\Effect3.Plugin.pdb
+C:\Users\nadishka_j\Desktop\PluginApp\Effect3.Plugin\bin\Debug\PluginInterface.dll
+C:\Users\nadishka_j\Desktop\PluginApp\Effect3.Plugin\bin\Debug\PluginInterface.pdb
+C:\Users\nadishka_j\Desktop\PluginApp\Effect3.Plugin\obj\Debug\Effect3.Plugin.csprojAssemblyReference.cache
+C:\Users\nadishka_j\Desktop\PluginApp\Effect3.Plugin\obj\Debug\Effect3.Plugin.csproj.CoreCompileInputs.cache
+C:\Users\nadishka_j\Desktop\PluginApp\Effect3.Plugin\obj\Debug\Effect3.Plugin.csproj.CopyComplete
+C:\Users\nadishka_j\Desktop\PluginApp\Effect3.Plugin\obj\Debug\Effect3.Plugin.dll
+C:\Users\nadishka_j\Desktop\PluginApp\Effect3.Plugin\obj\Debug\Effect3.Plugin.pdb
